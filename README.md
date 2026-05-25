@@ -365,12 +365,4 @@ Make sure the backend CORS allowlist includes your deployed frontend URL.
 
 ---
 
-## License
-
-Add your preferred license before publishing the repository.
-
----
-
-<p align="center">
-  Built for creators who want editorial polish, affiliate revenue, and a smooth admin workflow in one place.
 </p>
